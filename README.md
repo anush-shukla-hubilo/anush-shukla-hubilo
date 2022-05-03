@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @anush-shukla-hubilo
-- 👀 I’m interested in making Hubilo applications better and safer
-- 🌱 I’m currently learning all different kinds of technology
-- 💞️ I’m looking to collaborate on any team project which is interesting and challenging
-- 📫 You can reach me at at anush+github@hubilo.com for anything
+Please refer https://github.com/anushshukla/anushshukla/blob/main/README.md
